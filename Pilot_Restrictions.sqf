@@ -19,9 +19,58 @@
 
  _pilots = [
 ///Variable names///
-
-"uns_pilot5"
-];
+  "HELI1",
+  "HELI2",
+  "HELI3",
+  "HELI4",
+  "HELI5",
+  "HELI6",
+  "HELI7",
+  "HELI8",
+  "TB_1",
+  "TB_2",
+  "TB_3",
+  "TB_4",
+  "TB_5",
+  "TB_6",
+  "TB_7",
+  "TB_8",
+  "TB_9",
+  "TB_10",
+  "TB_11",
+  "TB_12",
+  "TB_13",
+  "TB_14",
+  "TB_15",
+  "TB_16",
+  "uns_pilot5",
+  "ABPL1",
+  "ABPL2",
+  "ABSL1",
+  "ABSL2",
+  "ABMD1",
+  "ABMD2",
+  "ABRM1",
+  "ABRM2",
+  "ABRM3",
+  "ABRM4",
+  "ABRM5",
+  "ABRM6",
+  "ABRM7",
+  "ABRM8",
+  "ABRM9",
+  "ABRM10",
+  "ABRM11",
+  "ABRM12",
+  "ABRMC1",
+  "ABRMC2",
+  "ABRMC3",
+  "ABRMC4",
+  "ABMG1",
+  "ABMG2",
+  "ABRTO1",
+  "ABRTO2"
+  ];
 
 
 
@@ -60,11 +109,11 @@
   ///Vehicles///
   _plane = ["Plane"];
 
-  _chopper = ["Helicopter","uns_UH1D_base"];
+  _chopper = ["B_Parachute","Helicopter","uns_UH1D_base","B_LIB_US_Type5"];
 
   _armor = ["Tank"];
 
-  _Parachute = ["B_Parachute"];
+  _Parachute = ["B_Parachute","B_LIB_US_Type5"];
 
     waitUntil {player == player};
 
