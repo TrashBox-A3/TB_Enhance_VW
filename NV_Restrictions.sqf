@@ -16,7 +16,26 @@ _NVitems = [
 "CUP_optic_AN_PVS_10",
 "CUP_optic_AN_PVS_4",
 "CUP_optic_CWS",
-"rhsusf_acc_anpvs27"
+"rhsusf_acc_anpvs27",
+"rhsusf_acc_premier_anpvs27",
+"rhsusf_acc_ACOG_anpvs27",
+"optic_tws_mg",
+"optic_tws",
+"CUP_optic_AN_PAS_13c2",
+"CUP_optic_AN_PAS_13c1",
+"CUP_optic_AN_PVS_10",
+"CUP_optic_AN_PVS_4",
+"CUP_optic_CWS",
+"optic_av_shahin",
+"optic_av_1pn51",
+"rhs_acc_1pn93_1",
+"rhs_acc_1pn93_2",
+"CUP_optic_NSPU_RPG",
+"av_p69",
+"optic_av_anpvs4",
+"optic_av_pks",
+"optic_av_shahin",
+"optic_av_1pn34"
 ];
 
 while {true} do {
